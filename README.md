@@ -1,13 +1,13 @@
 [![](https://img.shields.io/badge/license-AGPL_3.0-blue.svg)](https://opensource.org/licenses/AGPL_3.0)
-[![fedora44 Runtime Scan](https://github.com/butlergroup/canary-fedora44/actions/workflows/fedora44-scan.yaml/badge.svg)](https://github.com/butlergroup/canary-fedora44/actions/workflows/fedora44-scan.yaml)
-[![CodeQL](https://github.com/butlergroup/canary-fedora44/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/butlergroup/canary-fedora44/actions/workflows/github-code-scanning/codeql)
-[![Dependabot Updates](https://github.com/butlergroup/canary-fedora44/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/butlergroup/canary-fedora44/actions/workflows/dependabot/dependabot-updates)
-[![OSV-Scanner](https://github.com/butlergroup/canary-fedora44/actions/workflows/osv-scanner.yml/badge.svg)](https://github.com/butlergroup/canary-fedora44/actions/workflows/osv-scanner.yml)
+[![fedora44 Runtime Scan](https://github.com/The-Butler-Group-LLC/canary-fedora44/actions/workflows/fedora44-scan.yaml/badge.svg)](https://github.com/The-Butler-Group-LLC/canary-fedora44/actions/workflows/fedora44-scan.yaml)
+[![CodeQL](https://github.com/The-Butler-Group-LLC/canary-fedora44/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/The-Butler-Group-LLC/canary-fedora44/actions/workflows/github-code-scanning/codeql)
+[![Dependabot Updates](https://github.com/The-Butler-Group-LLC/canary-fedora44/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/The-Butler-Group-LLC/canary-fedora44/actions/workflows/dependabot/dependabot-updates)
+[![OSV-Scanner](https://github.com/The-Butler-Group-LLC/canary-fedora44/actions/workflows/osv-scanner.yml/badge.svg)](https://github.com/The-Butler-Group-LLC/canary-fedora44/actions/workflows/osv-scanner.yml)
 [![Snyk Security-Monitored](https://img.shields.io/badge/Snyk%20Security-Monitored-purple)](https://app.snyk.io/share/784f6fef-6aaf-47ed-81ba-99e05b854665)
-[![Scorecard supply-chain security](https://github.com/butlergroup/canary-fedora44/actions/workflows/scorecard.yml/badge.svg)](https://github.com/butlergroup/canary-fedora44/actions/workflows/scorecard.yml)
-[![Microsoft Defender For Devops](https://github.com/butlergroup/canary-fedora44/actions/workflows/defender-for-devops.yml/badge.svg)](https://github.com/butlergroup/canary-fedora44/actions/workflows/defender-for-devops.yml)
-[![Feature Requests](https://img.shields.io/github/issues/butlergroup/canary-fedora44/feature-request.svg)](https://github.com/butlergroup/canary-fedora44/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement)
-[![Bugs](https://img.shields.io/github/issues/butlergroup/canary-fedora44/bug.svg)](https://github.com/butlergroup/canary-fedora44/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abug)
+[![Scorecard supply-chain security](https://github.com/The-Butler-Group-LLC/canary-fedora44/actions/workflows/scorecard.yml/badge.svg)](https://github.com/The-Butler-Group-LLC/canary-fedora44/actions/workflows/scorecard.yml)
+[![Microsoft Defender For Devops](https://github.com/The-Butler-Group-LLC/canary-fedora44/actions/workflows/defender-for-devops.yml/badge.svg)](https://github.com/The-Butler-Group-LLC/canary-fedora44/actions/workflows/defender-for-devops.yml)
+[![Feature Requests](https://img.shields.io/github/issues/The-Butler-Group-LLC/canary-fedora44/feature-request.svg)](https://github.com/The-Butler-Group-LLC/canary-fedora44/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement)
+[![Bugs](https://img.shields.io/github/issues/The-Butler-Group-LLC/canary-fedora44/bug.svg)](https://github.com/The-Butler-Group-LLC/canary-fedora44/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abug)
 
 ## canary-fedora44 :copyright: Project Goals & Info
 
@@ -22,7 +22,7 @@ We welcome contributions from the community! A simple guide to get started:
 3. **Thoroughly test and debug your changes**, then commit and push them to your forked repo/branch.
 4. Open a pull request to have your changes reviewed and reintegrated into the main branch.
 
-Contributors are strongly encouraged to read our [CONTRIBUTING.md](https://github.com/butlergroup/canary-fedora44/blob/main/CONTRIBUTING.md) file before opening a pull request. 
+Contributors are strongly encouraged to read our [CONTRIBUTING.md](https://github.com/The-Butler-Group-LLC/canary-fedora44/blob/main/CONTRIBUTING.md) file before opening a pull request. 
 
 ## License
 
@@ -38,4 +38,4 @@ Have questions or suggestions? Reach out to us at dev@butlergroup.net. Thank you
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=butlergroup/canary-fedora44&type=Date)](https://www.star-history.com/#butlergroup/canary-fedora44&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=The-Butler-Group-LLC/canary-fedora44&type=Date)](https://www.star-history.com/#The-Butler-Group-LLC/canary-fedora44&Date)
